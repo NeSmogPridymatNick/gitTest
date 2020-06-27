@@ -1,0 +1,6 @@
+nbproject/**
+build/**
+dist/**
+nbproject/**
+Makefile
+.dep.inc
